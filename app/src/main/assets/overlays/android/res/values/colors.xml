@@ -92,6 +92,7 @@
     <drawable name="notification_bg_low_pressed">@drawable/notification_bg_normal_pressed</drawable>
     <drawable name="notification_item_background_color">@*common:color/grey</drawable>
     <drawable name="notification_item_background_color_pressed">@*common:color/blue</drawable>
+    <drawable name="notification_template_icon_low_bg">@android:color/transparent</drawable>
     <drawable name="notify_panel_notification_icon_bg">@*common:color/grey</drawable>
     <drawable name="panel_bg_holo_dark">@*common:color/grey</drawable>
 
