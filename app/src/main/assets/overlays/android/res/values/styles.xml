@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.Holo.Light.Widget.Switch" parent="@*android:style/TextAppearance.Holo.Small">
+        <item name="android:textColor">@*android:color/transparent</item>
+    </style>
+
+    <style name="TextAppearance.Holo.Widget.Switch" parent="@*android:style/TextAppearance.Holo.Small">
+        <item name="android:textColor">@*android:color/transparent</item>
+    </style>
+</resources>

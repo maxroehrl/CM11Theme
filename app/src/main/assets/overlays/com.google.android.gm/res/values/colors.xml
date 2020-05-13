@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>  
-    <color name="mail_app_blue">#749bff</color>
+    <color name="mail_app_blue">@*common:color/blue_light</color>
 </resources>

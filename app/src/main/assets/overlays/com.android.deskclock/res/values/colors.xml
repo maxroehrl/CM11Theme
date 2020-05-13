@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">@*common:color/blue</color>
+    <color name="clock_red">@*common:color/blue</color>
+
+	<color name="main_button_normal">@*common:color/grey_light</color>
+    <color name="main_button_selected">@*common:color/blue</color>
+    <color name="main_button_red_normal">@*common:color/blue</color>
+    <color name="main_button_red_selected">#c02b4995</color>
+
+    <!-- If this color is changed or no longer used as the primary background, ensure that blackish_trans is changed as well. -->
+    <color name="blackish">@*common:color/grey</color>
+    <!-- Transparent background for use in the footer. 80% opacity. The color must remain the same as "blackish" above. -->
+    <color name="blackish_trans">#cc232731</color>
+
+    <drawable name="notification_template_icon_bg">@*android:drawable/notification_template_icon_bg</drawable>
+    <drawable name="notification_template_icon_low_bg">@*android:drawable/notification_template_icon_low_bg</drawable>
+
+	<drawable name="btn_check_on_holo_dark_red">@*android:drawable/btn_check_on_holo_dark</drawable>
+    <drawable name="btn_check_off_holo_dark_red">@*android:drawable/btn_check_off_holo_dark</drawable>
+
+    <drawable name="fastscroll_thumb_default_holo">@*android:drawable/fastscroll_thumb_default_holo</drawable>
+    <drawable name="fastscroll_thumb_pressed_holo">@*android:drawable/fastscroll_thumb_pressed_holo</drawable>
+</resources>

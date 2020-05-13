@@ -10,9 +10,6 @@
         </nameset>
         <fileset>
             <file>tahoma.ttf</file>
-			<file>tahoma.ttf</file>
-			<file>tahoma.ttf</file>
-			<file>tahoma.ttf</file>
         </fileset>
     </family>
     
@@ -22,7 +19,6 @@
         </nameset>
         <fileset>
             <file>tahoma.ttf</file>
-			<file>tahoma.ttf</file>
         </fileset>
     </family>
     
@@ -32,7 +28,6 @@
         </nameset>
         <fileset>
             <file>tahoma.ttf</file>
-			<file>tahoma.ttf</file>
         </fileset>
     </family>
     
@@ -42,9 +37,6 @@
         </nameset>
         <fileset>
             <file>tahoma.ttf</file>
-			<file>tahoma.ttf</file>
-			<file>tahoma.ttf</file>
-			<file>tahoma.ttf</file>
         </fileset>
     </family>
 </familyset>

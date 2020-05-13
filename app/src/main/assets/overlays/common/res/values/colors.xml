@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Highlight Colors -->
+    <color name="red">#ff993e1a</color>
+	<color name="blue">#ff2b4995</color>
+    <color name="blue_light">#ffa6bfff</color>
+    <color name="blue_dark">#ff0f2a70</color>
+
+	<!-- Grey Colors -->
+    <color name="grey_lighter">#ffc9cfde</color>
+    <color name="grey_light">#ff7e8598</color>
+    <color name="grey">#ff232731</color>
+    <color name="grey_dark">#ff0e0f12</color>
+</resources>

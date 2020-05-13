@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <style name="ActionBar.Dark" parent="@*android:style/Widget.Holo.ActionBar.Solid">
+        <item name="android:icon">@*android:color/transparent</item>
+		<item name="android:titleTextStyle">@*style/TitleText</item>
+   </style>
+ 
+   <style name="ActionBar.Light" parent="@*android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:icon">@*android:color/transparent</item>
+		<item name="android:titleTextStyle">@*style/TitleText</item>
+   </style>
+
+   <style name="ActionBarWidgetTheme.Dark" parent="@*android:style/Theme.Holo">
+        <item name="android:textColorHint">@*android:color/white</item>
+        <item name="android:textColor">@*android:color/white</item>
+    </style>
+
+   <style name="TitleText">
+		<item name="android:textSize">22.0dip</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textColor">@*android:color/white</item>
+		<item name="android:singleLine">true</item>
+   </style>
+</resources>

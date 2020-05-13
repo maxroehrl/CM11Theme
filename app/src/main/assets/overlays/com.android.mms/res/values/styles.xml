@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MmsHoloTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+		<item name="android:actionBarStyle">@*style/ActionBar.Dark</item>
+		<item name="android:windowBackground">@*common:drawable/background_holo_light_inverse</item>
+		<item name="android:windowTranslucentStatus">true</item>
+		<item name="android:windowTranslucentNavigation">false</item>
+		<item name="android:fitsSystemWindows">true</item>
+		<item name="android:actionBarWidgetTheme">@*common:style/ActionBarWidgetTheme.Dark</item>
+    </style>
+
+	<style name="ActionBar.Dark" parent="@*android:style/Widget.Holo.ActionBar.Solid">
+        <item name="android:icon">@*android:color/transparent</item>
+		<item name="android:titleTextStyle">@*style/TitleText</item>
+		<item name="android:subtitleTextStyle">@*style/SubtitleText</item>
+   </style>
+
+   <style name="TitleText">
+		<item name="android:textSize">14.0dip</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textColor">@*android:color/white</item>
+		<item name="android:singleLine">true</item>
+   </style>
+
+	<style name="SubtitleText" parent="@*android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle">
+        <item name="android:textColor">@*android:color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="abc_tab_selected_focused_holo">@*android:drawable/tab_selected_focused_holo</drawable>
+    <drawable name="abc_tab_selected_holo">@*android:drawable/tab_selected_holo</drawable>
+    <drawable name="abc_tab_selected_pressed_holo">@*android:drawable/tab_selected_pressed_holo</drawable>
+    <drawable name="abc_tab_unselected_pressed_holo">@*android:drawable/tab_unselected_pressed_holo</drawable>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- In-call UI -->
+    <color name="incall_call_banner_background">#a00e0f12</color> <!-- semitransparent black -->
+    <color name="incall_secondary_info_background">#80232731</color> <!-- semitransparent blueish grey -->
+
+    <!-- Color of the theme of the People app -->
+    <color name="people_app_theme_color">@*common:color/blue</color>
+
+    <!-- Background color of action bars.  Ensure this stays in sync with Dialer
+         actionbar_background_color. -->
+    <color name="actionbar_background_color">@*common:color/blue</color>
+
+    <!-- Underline color of action bars.  Ensure this stays in sync with Dialer
+         actionbar_underline. -->
+    <color name="actionbar_underline">@*common:color/blue</color>
+</resources>

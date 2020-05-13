@@ -1,46 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="quickcontact_list_divider">#ffcdcdcd</color>
-    <color name="quickcontact_list_background">#ffe2e2e2</color>
-    <color name="quickcontact_tab_indicator">#ffc6c6c6</color>
-    <color name="quickcontact_track_background">#fff5f5f5</color>
-    <color name="quickcontact_activity_background">#fff5f5f5</color>
-    <color name="quickcontact_name_detail_background">#66000000</color>
-
-    <!-- Color of the background of the contact detail and editor pages -->
-    <color name="background_primary">#c9cfde</color>
-
-    <color name="background_social_updates">#ffeeeeee</color>
+	<!-- Color of the background of the contact detail and editor pages -->
+	<color name="background_primary">@*common:drawable/background_holo_light_inverse</color>
 
     <!-- Color used for the letter in the A-Z section header -->
-    <color name="section_header_text_color">#ff7e8598</color>
-
-    <!-- Color of the text in the updates tab in the tab carousel on the contact detail page -->
-    <color name="detail_update_tab_text_color">#777777</color>
-
-    <!-- Color of the text of the tab carousel in the contact details  -->
-    <color name="detail_tab_carousel_tab_label_color">#EEEEEE</color>
+    <color name="section_header_text_color">@*common:color/grey_light</color>
 
     <!-- Color of the background of the action bar -->
-    <color name="action_bar_background">#ff749bff</color>
+    <color name="action_bar_background">@*common:color/blue_light</color>
 
     <!-- Color of the background of the action bar when highlighted (ie. pressed, focused) -->
-    <color name="action_bar_background_highlight">#ff2b4995</color>
-
-    <!-- Color of the text for buttons in the action bar  -->
-    <color name="action_bar_button_text_color">#FFFFFF</color>
+    <color name="action_bar_background_highlight">@*common:color/blue</color>
 
     <!--  Color of the vertical stripe that goes on the left of a block quote inside a stream item -->
-    <color name="stream_item_stripe_color">#749bff</color>
+    <color name="stream_item_stripe_color">@*common:color/blue_light</color>
 
-    <!-- New Colors for Theme Chooser to be compatible -->
-    <color name="account_container">#eeeeee</color>
-    <color name="call_detail_photo_bg">#7f000000</color>
-    <color name="call_log_divider">#55ffffff</color>
-    <color name="detail_tab_carousel_tab_label_background_color">#7f749bff</color>
-    <color name="photo_backdrop">#000000</color>
-    <color name="photo_container">#4cffffff</color>
-    <color name="social_widget_bg">#00000000</color>
-    <color name="white_text">#ffffffff</color>
+    <color name="detail_tab_carousel_tab_label_background_color">@*common:color/blue_light</color>
 </resources>
-

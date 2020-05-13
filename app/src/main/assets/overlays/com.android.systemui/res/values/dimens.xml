@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Recent Applications parameters -->
+    <!-- Upper width limit for application icon -->
+    <dimen name="status_bar_recents_app_icon_max_width">48dip</dimen>
+    <!-- Upper height limit for application icon -->
+    <dimen name="status_bar_recents_app_icon_max_height">48dip</dimen>
+
+    <!-- Size of application thumbnail -->
+    <dimen name="status_bar_recents_thumbnail_width">240.0dip</dimen>
+    <dimen name="status_bar_recents_thumbnail_height">212.2dip</dimen>
+
+    <!-- Size of application label text -->
+    <dimen name="status_bar_recents_app_label_text_size">0dip</dimen>
+    <!-- Size of application description text -->
+    <dimen name="status_bar_recents_app_description_text_size">0dip</dimen>
+	<!-- Size of fading edge for text -->
+    <dimen name="status_bar_recents_text_fading_edge_length">20.0dip</dimen>
+	<!-- Size of fading edge for scrolling -->
+	<dimen name="status_bar_recents_scroll_fading_edge_length">10.0dip</dimen>
+    <!-- How far the thumbnail for a recent app appears from left edge -->	
+    <dimen name="status_bar_recents_thumbnail_left_margin">0dip</dimen>
+    <!-- Padding for text descriptions -->	
+    <dimen name="status_bar_recents_text_description_padding">8dip</dimen>
+	<!-- Width of application label text -->
+    <dimen name="status_bar_recents_app_label_width">0dip</dimen>
+    <!-- Left margin of application label text -->
+    <dimen name="status_bar_recents_app_label_left_margin">16dip</dimen>
+
+    <!-- Where to place the app icon over the thumbnail -->
+    <dimen name="status_bar_recents_app_icon_left_margin">-15dp</dimen>
+    <dimen name="status_bar_recents_app_icon_top_margin">0dp</dimen>
+</resources>

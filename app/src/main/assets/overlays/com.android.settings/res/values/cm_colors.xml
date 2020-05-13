@@ -1,15 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="linear_color_bar_left_color">#ff2b4995</color>
-    <color name="linear_color_bar_middle_color">#ff2b4995</color>
-    <color name="linear_color_bar_right_color">#ff7e8598</color>
-    <color name="linear_color_bar_gray_color">#ff7e8598</color>
-    <color name="linear_color_bar_white_color">#ffffffff</color>
-
+    <color name="linear_color_bar_left_color">@*common:color/blue</color>
+    <color name="linear_color_bar_middle_color">@*common:color/blue</color>
+    <color name="linear_color_bar_right_color">@*common:color/grey_light</color>
+    <color name="linear_color_bar_gray_color">@*common:color/grey_light</color>
+	
     <color name="data_usage_series_fill_color">#c02b4995</color>
     <color name="data_usage_series_fill_color_secondary">#662b4995</color>
-    <color name="data_usage_series_stroke_color">#2b4995</color>
+    <color name="data_usage_series_stroke_color">@*common:color/blue</color>
     <color name="data_usage_series_details_fill_color">#c02b4995</color>
     <color name="data_usage_series_details_fill_color_secondary">#602b4995</color>
-    <color name="data_usage_sweep_warning_label_color">#f7931d</color>
-    <color name="data_usage_sweep_limit_label_color">#c01a2c</color>
 </resources>
