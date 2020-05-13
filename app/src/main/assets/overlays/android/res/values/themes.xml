@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Activity animations -->
+    <style name="Theme" parent="@android:style/Theme">
+		<item name="android:windowAnimationStyle">@style/Animation.Activity</item>
+	</style>
+    
+	<style name="Theme.Holo" parent="@android:style/Theme.Holo">
+		<item name="android:windowAnimationStyle">@style/Animation.Activity</item>
+	</style>
+    
+	<style name="Theme.Holo.Light" parent="@android:style/Theme.Holo.Light">
+		<item name="android:windowAnimationStyle">@style/Animation.Activity</item>
+	</style>
+    
+    <!-- Dialog animations -->
+	<style name="Theme.Dialog" parent="@android:style/Theme.Dialog">
+		<item name="android:windowAnimationStyle">@style/Animation.Dialog</item>
+	</style>
+    
+	<style name="Theme.Holo.Dialog" parent="@android:style/Theme.Holo.Dialog">
+		<item name="android:windowAnimationStyle">@style/Animation.Holo.Dialog</item>
+	</style>
+    
+	<style name="Theme.Holo.Light.Dialog" parent="@android:style/Theme.Holo.Light.Dialog">
+		<item name="android:windowAnimationStyle">@style/Animation.Holo.Dialog</item>
+	</style>
+</resources>

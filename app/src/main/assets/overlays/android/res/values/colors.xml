@@ -50,17 +50,17 @@
     <color name="keyguard_avatar_frame_pressed_color">@*common:color/blue_disabled</color>
 
     <!-- Action Bar -->
-    <drawable name="ab_solid_dark_holo">@*common:color/blue</drawable>
-    <drawable name="ab_stacked_solid_dark_holo">@*common:color/blue</drawable>
-    <drawable name="ab_bottom_solid_dark_holo">@*common:color/blue</drawable>
+    <drawable name="ab_solid_dark_holo">@drawable/ab</drawable>
+    <drawable name="ab_stacked_solid_dark_holo">@drawable/ab</drawable>
+    <drawable name="ab_bottom_solid_dark_holo">@drawable/ab</drawable>
     <drawable name="ab_solid_light_holo">@*common:color/grey_lighter</drawable>
     <drawable name="ab_stacked_solid_light_holo">@*common:color/grey_lighter</drawable>
     <drawable name="ab_bottom_solid_light_holo">@*common:color/grey_lighter</drawable>
-    <drawable name="ab_stacked_solid_inverse_holo">@*common:color/blue</drawable>
-    <drawable name="ab_bottom_solid_inverse_holo">@*common:color/blue</drawable>
-    <drawable name="ab_transparent_dark_holo">@*common:color/blue</drawable>
+    <drawable name="ab_stacked_solid_inverse_holo">@drawable/ab</drawable>
+    <drawable name="ab_bottom_solid_inverse_holo">@drawable/ab</drawable>
+    <drawable name="ab_transparent_dark_holo">@drawable/ab</drawable>
     <drawable name="ab_transparent_light_holo">@*common:color/grey_lighter</drawable>
-    <drawable name="ab_bottom_transparent_dark_holo">@*common:color/blue</drawable>
+    <drawable name="ab_bottom_transparent_dark_holo">@drawable/ab</drawable>
     <drawable name="ab_bottom_transparent_light_holo">@*common:color/grey_lighter</drawable>
     <drawable name="ab_solid_shadow_holo">@android:color/transparent</drawable>
 

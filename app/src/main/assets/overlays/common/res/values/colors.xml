@@ -6,7 +6,7 @@
     <color name="blue_light">#ffa6bfff</color>
     <color name="blue_dark">#ff0f2a70</color>
 
-    <!-- Highlight Colors Disabled-->
+    <!-- Highlight Colors Disabled -->
     <color name="red_disabled">#80993e1a</color>
     <color name="blue_disabled">#802b4995</color>
     <color name="blue_light_disabled">#80a6bfff</color>
