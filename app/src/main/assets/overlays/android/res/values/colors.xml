@@ -39,6 +39,9 @@
     <color name="bright_foreground_disabled_holo_dark">@*common:color/grey_light_disabled</color>
     <color name="bright_foreground_disabled_holo_light">@*common:color/grey_light_disabled</color>
 
+    <!-- Volume Panel Background -->
+    <color name="volume_panel_bg">@drawable/btn_default_normal_holo</color>
+
     <!-- Security Permissions -->
     <color name="perms_dangerous_grp_color">@*common:color/blue</color>
     <color name="perms_dangerous_perm_color">@*common:color/blue</color>

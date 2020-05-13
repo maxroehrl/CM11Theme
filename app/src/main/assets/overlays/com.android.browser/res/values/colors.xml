@@ -6,4 +6,6 @@
 
     <drawable name="textfield_active_holo_dark">@android:color/transparent</drawable>
     <drawable name="textfield_default_holo_dark">@android:color/transparent</drawable>
+    
+    <drawable name="ic_menu_overflow">@*android:drawable/ic_menu_moreoverflow_normal_holo_dark</drawable>
 </resources>
