@@ -16,6 +16,6 @@
     <color name="stream_item_stripe_color">@*common:color/blue_light</color>
 
     <color name="detail_tab_carousel_tab_label_background_color">@*common:color/blue_light</color>
-    
+
     <color name="ic_overflow_menu">@*android:drawable/ic_menu_moreoverflow_normal_holo_dark</color>
 </resources>

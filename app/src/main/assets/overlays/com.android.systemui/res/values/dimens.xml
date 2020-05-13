@@ -17,9 +17,9 @@
     <dimen name="status_bar_recents_text_fading_edge_length">20.0dip</dimen>
     <!-- Size of fading edge for scrolling -->
     <dimen name="status_bar_recents_scroll_fading_edge_length">10.0dip</dimen>
-    <!-- How far the thumbnail for a recent app appears from left edge -->	
+    <!-- How far the thumbnail for a recent app appears from left edge -->
     <dimen name="status_bar_recents_thumbnail_left_margin">0dip</dimen>
-    <!-- Padding for text descriptions -->	
+    <!-- Padding for text descriptions -->
     <dimen name="status_bar_recents_text_description_padding">8dip</dimen>
     <!-- Width of application label text -->
     <dimen name="status_bar_recents_app_label_width">0dip</dimen>

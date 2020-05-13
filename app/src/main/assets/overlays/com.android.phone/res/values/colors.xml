@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- In-call UI -->
-    <color name="incall_call_banner_background">#a00e0f12</color> <!-- semitransparent black -->
-    <color name="incall_secondary_info_background">@*common:color/grey_disabled</color> <!-- semitransparent blueish grey -->
+    <color name="incall_call_banner_background">#a00e0f12</color>
+    <!-- semitransparent black -->
+    <color name="incall_secondary_info_background">@*common:color/grey_disabled</color>
+    <!-- semitransparent blueish grey -->
 
     <!-- Color of the theme of the People app -->
     <color name="people_app_theme_color">@*common:color/blue</color>

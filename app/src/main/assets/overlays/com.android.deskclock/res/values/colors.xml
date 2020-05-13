@@ -16,12 +16,21 @@
     <drawable name="header_bg">@*common:color/blue</drawable>
     <drawable name="header_bg_bar">@*common:color/blue</drawable>
 
-    <drawable name="notification_template_icon_bg">@*android:drawable/notification_template_icon_bg</drawable>
-    <drawable name="notification_template_icon_low_bg">@*android:drawable/notification_template_icon_low_bg</drawable>
+    <drawable name="notification_template_icon_bg">
+        @*android:drawable/notification_template_icon_bg
+    </drawable>
+    <drawable name="notification_template_icon_low_bg">
+        @*android:drawable/notification_template_icon_low_bg
+    </drawable>
 
     <drawable name="btn_check_on_holo_dark_red">@*android:drawable/btn_check_on_holo_dark</drawable>
-    <drawable name="btn_check_off_holo_dark_red">@*android:drawable/btn_check_off_holo_dark</drawable>
+    <drawable name="btn_check_off_holo_dark_red">@*android:drawable/btn_check_off_holo_dark
+    </drawable>
 
-    <drawable name="fastscroll_thumb_default_holo">@*android:drawable/fastscroll_thumb_default_holo</drawable>
-    <drawable name="fastscroll_thumb_pressed_holo">@*android:drawable/fastscroll_thumb_pressed_holo</drawable>
+    <drawable name="fastscroll_thumb_default_holo">
+        @*android:drawable/fastscroll_thumb_default_holo
+    </drawable>
+    <drawable name="fastscroll_thumb_pressed_holo">
+        @*android:drawable/fastscroll_thumb_pressed_holo
+    </drawable>
 </resources>

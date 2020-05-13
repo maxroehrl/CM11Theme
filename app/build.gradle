@@ -1,25 +1,30 @@
 apply plugin: 'com.android.application'
+
 android {
+    signingConfigs {
+        config {
+            keyAlias 'maxkey'
+            keyPassword 'p8z77vdeluxe'
+            storeFile file('C:/Users/Max/Google Drive/Programme/max.keystore')
+            storePassword 'p8z77vdeluxe'
+        }
+    }
     compileSdkVersion 21
-    buildToolsVersion '21.1.1'
+    buildToolsVersion '21.1.2'
     defaultConfig {
         applicationId 'com.max.theme.aurora'
         minSdkVersion 19
         targetSdkVersion 19
-        versionCode 21
-        versionName '2.1.0'
-    }
-    signingConfigs {
-        release {
-            storeFile file(RELEASE_STORE_FILE)
-            storePassword RELEASE_STORE_PASSWORD
-            keyAlias RELEASE_KEY_ALIAS
-            keyPassword RELEASE_KEY_PASSWORD
-        }
+        versionCode 22
+        versionName '2.2.0'
+        signingConfig signingConfigs.config
     }
     buildTypes {
         release {
-            signingConfig signingConfigs.release
+            signingConfig signingConfigs.config
         }
     }
+}
+
+dependencies {
 }

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.Settings" parent="@android:style/Theme.Holo" >
+    <style name="Theme.Settings" parent="@android:style/Theme.Holo">
         <item name="android:actionBarStyle">@*common:style/ActionBar.Dark</item>
         <item name="android:windowBackground">@*common:drawable/background_holo_dark</item>
         <item name="android:windowTranslucentStatus">true</item>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
-    <translate android:fromYDelta="100%p" android:toYDelta="0"
-        android:duration="300" 
-        android:interpolator="@android:interpolator/accelerate_quint"/>
-    <alpha android:fromAlpha="0.0" android:toAlpha="1.0"
-        android:duration="300"
-        android:interpolator="@android:interpolator/accelerate_quad"/>
+    <translate android:duration="300" android:fromYDelta="100%p"
+        android:interpolator="@android:interpolator/accelerate_quint" android:toYDelta="0" />
+    <alpha android:duration="300" android:fromAlpha="0.0"
+        android:interpolator="@android:interpolator/accelerate_quad" android:toAlpha="1.0" />
 </set>

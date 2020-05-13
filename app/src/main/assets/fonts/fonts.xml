@@ -9,34 +9,43 @@
             <name>verdana</name>
         </nameset>
         <fileset>
-            <file>tahoma.ttf</file>
+            <file>Oxygen.ttf</file>
         </fileset>
     </family>
-    
+
     <family>
         <nameset>
             <name>sans-serif-light</name>
         </nameset>
         <fileset>
-            <file>tahoma.ttf</file>
+            <file>Oxygen.ttf</file>
         </fileset>
     </family>
-    
+
     <family>
         <nameset>
             <name>sans-serif-thin</name>
         </nameset>
         <fileset>
-            <file>tahoma.ttf</file>
+            <file>Oxygen.ttf</file>
         </fileset>
     </family>
-    
-   <family>
+
+    <family>
         <nameset>
             <name>sans-serif-condensed</name>
         </nameset>
         <fileset>
-            <file>tahoma.ttf</file>
+            <file>Oxygen.ttf</file>
+        </fileset>
+    </family>
+
+    <family>
+        <nameset>
+            <name>sans-serif-medium</name>
+        </nameset>
+        <fileset>
+            <file>Oxygen.ttf</file>
         </fileset>
     </family>
 </familyset>

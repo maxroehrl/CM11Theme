@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>    
+<resources>
     <color name="action_bar_color">@*common:color/blue</color>
 </resources>

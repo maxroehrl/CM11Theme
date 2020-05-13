@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>    
+<resources>
     <!-- Activity animations -->
     <style name="Animation.DeviceDefault.Activity" parent="@style/Animation.Holo.Activity" />
-    
+
     <!-- Dialog animations -->
     <style name="Animation.DeviceDefault.Dialog" parent="@style/Animation.Holo.Dialog" />
 </resources>

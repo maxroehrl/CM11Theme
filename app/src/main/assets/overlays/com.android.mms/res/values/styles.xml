@@ -13,16 +13,17 @@
         <item name="android:icon">@android:color/transparent</item>
         <item name="android:titleTextStyle">@style/TitleText</item>
         <item name="android:subtitleTextStyle">@style/SubtitleText</item>
-   </style>
+    </style>
 
-   <style name="TitleText">
+    <style name="TitleText">
         <item name="android:textSize">14.0dip</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textColor">@android:color/white</item>
         <item name="android:singleLine">true</item>
-   </style>
+    </style>
 
-    <style name="SubtitleText" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle">
+    <style name="SubtitleText"
+        parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle">
         <item name="android:textColor">@android:color/white</item>
     </style>
 </resources>

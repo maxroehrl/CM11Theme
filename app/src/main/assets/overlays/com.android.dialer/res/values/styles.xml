@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="DialtactsTheme1" parent="@android:Theme.Holo.Light" >
+    <style name="DialtactsTheme1" parent="@android:Theme.Holo.Light">
         <item name="android:windowBackground">@drawable/background_holo_light_inverse</item>
         <item name="android:windowTranslucentStatus">true</item>
         <item name="android:windowTranslucentNavigation">false</item>

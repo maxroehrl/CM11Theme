@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="drawable" name="actionbar_translucent">@*common:color/blue</item>
-	<color name="default_background">@*common:color/grey_dark</color>
+    <item name="actionbar_translucent" type="drawable">@*common:color/blue</item>
+    <color name="default_background">@*common:color/grey_dark</color>
     <color name="albumset_background">@*common:color/grey_dark</color>
     <color name="albumset_placeholder">@*common:color/grey_dark</color>
     <color name="albumset_label_background">@*common:color/grey</color>

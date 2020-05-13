@@ -2,7 +2,7 @@
 <resources>
     <color name="detailedview_pager_background">@android:color/white</color>
 
-	<color name="apply_button_text_color_enabled">@android:color/white</color>
+    <color name="apply_button_text_color_enabled">@android:color/white</color>
     <color name="apply_button_text_color_disabled">@android:color/white</color>
 
     <color name="apply_button_progress_color">@*common:color/blue_dark</color>

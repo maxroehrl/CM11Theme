@@ -2,15 +2,16 @@
 <resources>
     <!-- Activity animations -->
     <style name="Theme.DeviceDefault" parent="@android:style/Theme.DeviceDefault">
-		<item name="android:windowAnimationStyle">@style/Animation.Activity</item>
-	</style>
-    
+        <item name="android:windowAnimationStyle">@style/Animation.Activity</item>
+    </style>
+
     <!-- Dialog animations -->
     <style name="Theme.DeviceDefault.Dialog" parent="@android:style/Theme.DeviceDefault.Dialog">
-		<item name="android:windowAnimationStyle">@style/Animation.DeviceDefault.Dialog</item>
-	</style>
-    
-	<style name="Theme.DeviceDefault.Light.Dialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
-		<item name="android:windowAnimationStyle">@style/Animation.DeviceDefault.Dialog</item>
-	</style>
+        <item name="android:windowAnimationStyle">@style/Animation.DeviceDefault.Dialog</item>
+    </style>
+
+    <style name="Theme.DeviceDefault.Light.Dialog"
+        parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowAnimationStyle">@style/Animation.DeviceDefault.Dialog</item>
+    </style>
 </resources>

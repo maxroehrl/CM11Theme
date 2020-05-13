@@ -14,7 +14,7 @@
 
     <drawable name="background">@*common:color/grey</drawable>
     <drawable name="display_background">@*common:color/grey</drawable>
-    
+
     <drawable name="btn_keyboard_key_dark_normal_holo">#ff363d51</drawable>
     <drawable name="btn_keyboard_key_dark_pressed_holo">@*common:color/blue</drawable>
     <drawable name="btn_keyboard_key_del_holo">@*common:color/red</drawable>
