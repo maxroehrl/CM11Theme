@@ -114,7 +114,7 @@
     <eat-comment />
 
     <!-- A light Holo shade of blue -->
-    <color name="holo_blue_light">#ff2b4995</color>
+    <color name="holo_blue_light">#ff749bff</color>
     <!-- A light Holo shade of green -->
     <color name="holo_green_light">#ff99cc00</color>
     <!-- A light Holo shade of red -->

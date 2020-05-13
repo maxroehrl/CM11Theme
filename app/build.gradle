@@ -1,17 +1,14 @@
 apply plugin: 'com.android.application'
-
 android {
     compileSdkVersion 20
     buildToolsVersion '20.0.0'
-
     defaultConfig {
         applicationId 'com.max.theme.aurora'
         minSdkVersion 19
         targetSdkVersion 20
-        versionCode 11
-        versionName '1.8.1'
+        versionCode 12
+        versionName '1.9.0'
     }
-
     signingConfigs {
         release {
             storeFile file(RELEASE_STORE_FILE)
@@ -20,10 +17,13 @@ android {
             keyPassword RELEASE_KEY_PASSWORD
         }
     }
-
     buildTypes {
         release {
             signingConfig signingConfigs.release
         }
     }
+    productFlavors {
+    }
+}
+dependencies {
 }
