@@ -3,15 +3,11 @@
     <drawable name="text_color_red">@*common:color/red</drawable>
     <drawable name="text_color_black">@*common:color/grey_dark</drawable>
 
-    <color name="text_hairline">@*common:color/grey_dark</color>
-
+    <!-- Color of the text for buttons in the action bar -->
     <color name="action_bar_button_text_color">@android:color/white</color>
+    <color name="actionbar_text">@android:color/white</color>
 
-    <color name="background">@*common:color/grey_lighter</color>
-    <color name="darkgray_backgrounds">@*common:color/grey_lighter</color>
-
-    <color name="quickmessage_body_dark_bg">@*common:color/grey</color>
-    <color name="quickmessage_body_light_bg">@*common:color/grey_lighter</color>
-
-    <color name="dividers">#ffa9b2c9</color>
+    <!-- Background color used for unread conversation -->
+    <color name="unread_bgcolor">@*common:color/grey_lighter_disabled</color>
+    <color name="read_bgcolor">@android:color/transparent</color>
 </resources>

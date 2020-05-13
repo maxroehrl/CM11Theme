@@ -55,40 +55,33 @@
     <drawable name="ab_solid_dark_holo">@drawable/ab</drawable>
     <drawable name="ab_stacked_solid_dark_holo">@drawable/ab</drawable>
     <drawable name="ab_bottom_solid_dark_holo">@drawable/ab</drawable>
-    <drawable name="ab_solid_light_holo">@*common:color/grey_lighter</drawable>
-    <drawable name="ab_stacked_solid_light_holo">@*common:color/grey_lighter</drawable>
-    <drawable name="ab_bottom_solid_light_holo">@*common:color/grey_lighter</drawable>
     <drawable name="ab_stacked_solid_inverse_holo">@drawable/ab</drawable>
     <drawable name="ab_bottom_solid_inverse_holo">@drawable/ab</drawable>
     <drawable name="ab_transparent_dark_holo">@drawable/ab</drawable>
-    <drawable name="ab_transparent_light_holo">@*common:color/grey_lighter</drawable>
     <drawable name="ab_bottom_transparent_dark_holo">@drawable/ab</drawable>
-    <drawable name="ab_bottom_transparent_light_holo">@*common:color/grey_lighter</drawable>
     <drawable name="ab_solid_shadow_holo">@android:color/transparent</drawable>
 
     <!-- Contextual Action Bar -->
     <drawable name="cab_background_top_holo_dark">@*common:color/blue</drawable>
     <drawable name="cab_background_bottom_holo_dark">@*common:color/blue</drawable>
-    <drawable name="cab_background_top_holo_light">@*common:color/blue_light</drawable>
-    <drawable name="cab_background_bottom_holo_light">@*common:color/blue_light</drawable>
 
     <!-- Background -->
     <drawable name="background_holo_dark">@*common:color/grey</drawable>
 
     <!-- List -->
-    <drawable name="list_activated_holo">@*common:color/blue</drawable>
-    <drawable name="list_focused_holo">@*common:color/blue</drawable>
-    <drawable name="list_longpressed_holo">@*common:color/blue</drawable>
-    <drawable name="list_longpressed_holo_dark">@*common:color/blue</drawable>
-    <drawable name="list_longpressed_holo_light">@*common:color/blue</drawable>
-    <drawable name="list_pressed_holo_dark">@*common:color/blue</drawable>
-    <drawable name="list_pressed_holo_light">@*common:color/blue</drawable>
-    <drawable name="list_selected_holo_dark">@*common:color/blue</drawable>
-    <drawable name="list_selected_holo_light">@*common:color/blue</drawable>
+    <drawable name="list_activated_holo">@*common:color/blue_transparent</drawable>
+    <drawable name="list_focused_holo">@*common:color/blue_transparent</drawable>
+    <drawable name="list_longpressed_holo">@*common:color/blue_transparent</drawable>
+    <drawable name="list_longpressed_holo_dark">@*common:color/blue_transparent</drawable>
+    <drawable name="list_longpressed_holo_light">@*common:color/blue_transparent</drawable>
+    <drawable name="list_pressed_holo_dark">@*common:color/blue_transparent</drawable>
+    <drawable name="list_pressed_holo_light">@*common:color/blue_transparent</drawable>
+    <drawable name="list_selected_holo_dark">@*common:color/blue_transparent</drawable>
+    <drawable name="list_selected_holo_light">@*common:color/blue_transparent</drawable>
     <drawable name="list_divider_holo_dark">@android:color/transparent</drawable>
     <drawable name="list_divider_holo_light">@android:color/transparent</drawable>
-    <drawable name="list_selector_disabled_holo_dark">@*common:color/blue_disabled</drawable>
-    <drawable name="list_selector_pressed_holo_dark">@*common:color/blue</drawable>
+    <drawable name="list_selector_disabled_holo_dark">@*common:color/blue_transparent</drawable>
+    <drawable name="list_selector_pressed_holo_dark">@*common:color/blue_transparent</drawable>
 
     <!-- Notification -->
     <drawable name="notification_bg_normal">@*common:color/grey_disabled</drawable>

@@ -5,6 +5,7 @@
     <color name="blue">#ff2b4995</color>
     <color name="blue_light">#ffa6bfff</color>
     <color name="blue_dark">#ff0f2a70</color>
+    <color name="blue_transparent">#332b4995</color>
 
     <!-- Highlight Colors Disabled -->
     <color name="red_disabled">#80993e1a</color>

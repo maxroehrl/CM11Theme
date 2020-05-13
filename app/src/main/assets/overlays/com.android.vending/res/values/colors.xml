@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="play_multi_primary">@*common:color/blue</color>
-    <color name="play_multi_primary_disabled">@*common:color/blue_disabled</color>
-    <color name="play_multi_secondary">@*common:color/blue</color>
-</resources>

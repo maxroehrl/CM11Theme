@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="primary">@*common:color/blue</color>
+    <color name="primary_dark">@*common:color/blue_dark</color>
+    <color name="accent">@*common:color/blue</color>
+
+    <color name="composing">@*common:color/blue</color>
+
+    <color name="material_deep_teal_200">@*common:color/blue_light</color>
+    <color name="material_deep_teal_500">@*common:color/blue</color>
+
+    <color name="link_color_incoming">@*common:color/blue_dark</color>
+    <color name="link_color_outgoing">@*common:color/blue_dark</color>
+
     <color name="background_tab_pressed">@*common:color/blue</color>
-    <color name="tab_selected_holo">@*common:color/blue</color>
     <color name="tab_indicator">@*common:color/blue</color>
     <color name="list_item_selected">@*common:color/blue</color>
 
-    <color name="abs__holo_blue_light">@*common:color/blue</color>
-
-    <drawable name="actionbar_background">@*common:color/blue</drawable>
-    <drawable name="gallery_actionbar_background">@*common:color/grey</drawable>
-    <drawable name="actionbar_logo">@android:color/transparent</drawable>
-
-    <drawable name="all_media_divider">@android:color/transparent</drawable>
-    <drawable name="divider_attach_horizontal">@android:color/transparent</drawable>
-    <drawable name="divider_attach_vertical">@android:color/transparent</drawable>
-
-    <drawable name="fastscroll_thumb_default_holo">@*android:drawable/fastscroll_thumb_holo</drawable>
-    <drawable name="fastscroll_thumb_pressed_holo">@*android:drawable/fastscroll_thumb_holo</drawable>
+    <drawable name="toast_frame_holo">@*android:drawable/toast_frame</drawable>
 </resources>
