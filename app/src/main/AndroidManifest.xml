@@ -3,16 +3,17 @@
     package="com.max.theme.aurora"
     android:installLocation="internalOnly">
 
-    <uses-feature
-        android:name="org.cyanogenmod.theme"
+    <uses-feature android:name="org.cyanogenmod.theme"
         android:required="true" />
 
-    <meta-data
-        android:name="org.cyanogenmod.theme.name"
+    <meta-data android:name="org.cyanogenmod.theme.name"
         android:value="@string/theme_name" />
-    <meta-data
-        android:name="org.cyanogenmod.theme.author"
+
+    <meta-data android:name="org.cyanogenmod.theme.author"
         android:value="@string/author" />
+
+    <meta-data android:name="org.cyanogenmod.theme.email"
+        android:value="@string/theme_email" />
 
     <application
         android:allowBackup="true"
