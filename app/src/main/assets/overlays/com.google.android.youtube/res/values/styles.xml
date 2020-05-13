@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:icon">@android:color/transparent</item>
+        <item name="android:background">@drawable/action_bar_background</item>
+        <item name="android:divider">@null</item>
+    </style>
+</resources>

@@ -13,6 +13,9 @@
     <!-- Transparent background for use in the footer. 80% opacity. The color must remain the same as "blackish" above. -->
     <color name="blackish_trans">#cc232731</color>
 
+    <drawable name="header_bg">@*common:color/blue</drawable>
+    <drawable name="header_bg_bar">@*common:color/blue</drawable>
+
     <drawable name="notification_template_icon_bg">@*android:drawable/notification_template_icon_bg</drawable>
     <drawable name="notification_template_icon_low_bg">@*android:drawable/notification_template_icon_low_bg</drawable>
 

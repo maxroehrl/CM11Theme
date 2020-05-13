@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="actionbar_background">@*common:color/blue</drawable>
+    <drawable name="actionbar_logo">@android:color/transparent</drawable>
+</resources>
