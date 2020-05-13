@@ -3,4 +3,7 @@
     <color name="navtab_bg">@*common:color/grey_dark_disabled</color>
     <drawable name="bg_browsertabs">@*common:color/grey</drawable>
     <drawable name="bg_urlbar">@*common:color/grey</drawable>
+
+    <drawable name="textfield_active_holo_dark">@android:color/transparent</drawable>
+    <drawable name="textfield_default_holo_dark">@android:color/transparent</drawable>
 </resources>

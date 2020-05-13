@@ -12,10 +12,10 @@
     <color name="highlighted_text_holo_light">@*common:color/blue_disabled</color>
 
     <!-- Dark Text -->
-    <color name="dim_foreground_dark_disabled">@*common:color/grey_disabled</color>
+    <color name="dim_foreground_dark_disabled">@*common:color/grey_light_disabled</color>
     <color name="dim_foreground_dark_inverse">@*common:color/grey_light</color>
     <color name="dim_foreground_dark_inverse_disabled">@*common:color/grey_light_disabled</color>
-    <color name="dim_foreground_disabled_holo_dark">@*common:color/grey_disabled</color>
+    <color name="dim_foreground_disabled_holo_dark">@*common:color/grey_light_disabled</color>
     <color name="dim_foreground_inverse_holo_dark">@*common:color/grey_light</color>
     <color name="dim_foreground_inverse_disabled_holo_dark">@*common:color/grey_light_disabled</color>
 

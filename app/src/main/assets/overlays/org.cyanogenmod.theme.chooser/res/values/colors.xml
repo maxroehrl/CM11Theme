@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="detailedview_pager_background">@android:color/white</color>
+
+	<color name="apply_button_text_color_enabled">@android:color/white</color>
+    <color name="apply_button_text_color_disabled">@android:color/white</color>
+
+    <color name="apply_button_progress_color">@*common:color/blue_dark</color>
+    <color name="apply_button_default_color">@*common:color/blue</color>
+    <color name="apply_button_pressed_color">@*common:color/blue_dark</color>
+</resources>

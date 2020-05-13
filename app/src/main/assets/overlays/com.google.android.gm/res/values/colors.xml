@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_drawer_divider">@android:color/transparent</drawable>
+    <drawable name="divider_holo_light">@android:color/transparent</drawable>
+    <color name="list_background_color">@android:color/white</color>
+</resources>

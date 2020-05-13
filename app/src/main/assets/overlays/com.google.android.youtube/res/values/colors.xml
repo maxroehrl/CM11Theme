@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <drawable name="action_bar_background">@*common:color/grey_lighter</drawable>
+    <drawable name="action_bar_background">@*common:color/blue</drawable>
     <drawable name="action_bar_logo_release">@android:color/transparent</drawable>
 
     <color name="guide_label">@android:color/white</color>
