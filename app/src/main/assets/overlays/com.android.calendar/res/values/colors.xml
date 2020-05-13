@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="calendar_view_switch_menu_text_color">#ffffff</color>
+    <color name="calendar_view_switch_menu_text_color">@android:color/white</color>
 </resources>

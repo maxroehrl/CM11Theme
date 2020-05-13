@@ -16,8 +16,8 @@
     <!-- Underline color of action bars.  Ensure this stays in sync with packages/Telephony
          actionbar_underline. -->
     <color name="actionbar_underline">@*common:color/blue</color>
-	
-	<!-- Background color of new dialer activity -->
+
+    <!-- Background color of new dialer activity -->
     <color name="background_dialer_light">@*android:color/transparent</color>
 
     <!-- Background color for the "All Contacts" button in the favorites menu. -->

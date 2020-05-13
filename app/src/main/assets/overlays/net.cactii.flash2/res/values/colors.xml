@@ -2,7 +2,7 @@
 <resources>
     <color name="divider_color">@*common:color/grey</color>
     <color name="text_about">@*common:color/red</color>
-    <color name="text_color">@*android:color/white</color>
+    <color name="text_color">@android:color/white</color>
     <color name="text_warn">@*common:color/red</color>
     <color name="bg_color">@*common:color/blue</color>
 </resources>

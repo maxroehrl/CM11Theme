@@ -7,6 +7,11 @@
     <drawable name="abc_list_pressed_holo_dark">@*common:color/blue</drawable>
     <drawable name="abc_list_pressed_holo_light">@*common:color/blue</drawable>
 
-    <drawable name="abc_list_divider_holo_dark">@*android:color/transparent</drawable>
-    <drawable name="abc_list_divider_holo_light">@*android:color/transparent</drawable>
+    <drawable name="abc_list_divider_holo_dark">@android:color/transparent</drawable>
+    <drawable name="abc_list_divider_holo_light">@android:color/transparent</drawable>
+
+    <drawable name="abc_tab_selected_focused_holo">@*android:drawable/tab_selected_focused_holo</drawable>
+    <drawable name="abc_tab_selected_holo">@*android:drawable/tab_selected_holo</drawable>
+    <drawable name="abc_tab_selected_pressed_holo">@*android:drawable/tab_selected_pressed_holo</drawable>
+    <drawable name="abc_tab_unselected_pressed_holo">@*android:drawable/tab_unselected_pressed_holo</drawable>
 </resources>

@@ -9,6 +9,4 @@
     <!-- Set the mask image for composed icons
          Original icon will be masked off using this mask -->
     <iconmask img="iconmask" />
-	
-    <item component="ComponentInfo{net.cactii.flash2/net.cactii.flash2.MainActivity}" drawable="cmtorch" />
 </resources>

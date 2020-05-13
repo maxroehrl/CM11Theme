@@ -1,37 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Holo -->
     <color name="holo_blue_light">@*common:color/blue</color>
     <color name="holo_blue_dark">@*common:color/blue</color>
     <color name="holo_blue_bright">@*common:color/blue</color>
 
-	<color name="search_url_text_normal">@*common:color/grey_dark</color>
+    <!-- Text Selection Highlight -->
+    <color name="highlighted_text_dark">@*common:color/blue_disabled</color>
+    <color name="highlighted_text_light">@*common:color/blue_disabled</color>
+    <color name="highlighted_text_holo_dark">@*common:color/blue_disabled</color>
+    <color name="highlighted_text_holo_light">@*common:color/blue_disabled</color>
 
-    <color name="dim_foreground_dark_disabled">#80232731</color>
+    <!-- Dark Text -->
+    <color name="dim_foreground_dark_disabled">@*common:color/grey_disabled</color>
     <color name="dim_foreground_dark_inverse">@*common:color/grey_light</color>
-    <color name="dim_foreground_dark_inverse_disabled">#807e8598</color>
-    <color name="dim_foreground_disabled_holo_dark">#80232731</color>
+    <color name="dim_foreground_dark_inverse_disabled">@*common:color/grey_light_disabled</color>
+    <color name="dim_foreground_disabled_holo_dark">@*common:color/grey_disabled</color>
     <color name="dim_foreground_inverse_holo_dark">@*common:color/grey_light</color>
-    <color name="dim_foreground_inverse_disabled_holo_dark">#807e8598</color>
-  
-    <color name="dim_foreground_light_disabled">#80c9cfde</color>
+    <color name="dim_foreground_inverse_disabled_holo_dark">@*common:color/grey_light_disabled</color>
+
+    <!-- Light Text -->
+    <color name="dim_foreground_light_disabled">@*common:color/grey_lighter_disabled</color>
     <color name="dim_foreground_light_inverse">@*common:color/grey_light</color>
-    <color name="dim_foreground_light_inverse_disabled">#807e8598</color>
-    <color name="dim_foreground_disabled_holo_light">#80c9cfde</color>
+    <color name="dim_foreground_light_inverse_disabled">@*common:color/grey_light_disabled</color>
+    <color name="dim_foreground_disabled_holo_light">@*common:color/grey_lighter_disabled</color>
     <color name="dim_foreground_inverse_holo_light">@*common:color/grey_light</color>
-    <color name="dim_foreground_inverse_disabled_holo_light">#807e8598</color>
+    <color name="dim_foreground_inverse_disabled_holo_light">@*common:color/grey_light_disabled</color>
 
-	<color name="hint_foreground_dark">@*common:color/grey</color>
-    <color name="hint_foreground_light">@*common:color/grey</color>
+    <!-- Hint Text Color -->
+    <color name="hint_foreground_dark">@*common:color/grey_dark</color>
+    <color name="hint_foreground_light">@*common:color/grey_dark</color>
 
-	<color name="lighter_gray">@*common:color/grey_light</color>
+    <!-- Grey -->
+    <color name="lighter_gray">@*common:color/grey_light</color>
     <color name="darker_gray">@*common:color/grey_dark</color>
 
-	<color name="bright_foreground_disabled_holo_dark">@*common:color/grey_light</color>
-    <color name="bright_foreground_disabled_holo_light">@*common:color/grey_light</color>
+    <!-- Disabled Text -->
+    <color name="bright_foreground_disabled_holo_dark">@*common:color/grey_light_disabled</color>
+    <color name="bright_foreground_disabled_holo_light">@*common:color/grey_light_disabled</color>
 
-	<drawable name="notification_item_background_color">@*common:color/grey</drawable>
+    <!-- Security Permissions -->
+    <color name="perms_dangerous_grp_color">@*common:color/blue</color>
+    <color name="perms_dangerous_perm_color">@*common:color/blue</color>
+
+    <!-- Keyguard -->
+    <color name="keyguard_avatar_frame_pressed_color">@*common:color/blue_disabled</color>
+
+    <!-- Action Bar -->
+    <drawable name="ab_solid_dark_holo">@*common:color/blue</drawable>
+    <drawable name="ab_stacked_solid_dark_holo">@*common:color/blue</drawable>
+    <drawable name="ab_bottom_solid_dark_holo">@*common:color/blue</drawable>
+    <drawable name="ab_solid_light_holo">@*common:color/grey_lighter</drawable>
+    <drawable name="ab_stacked_solid_light_holo">@*common:color/grey_lighter</drawable>
+    <drawable name="ab_bottom_solid_light_holo">@*common:color/grey_lighter</drawable>
+    <drawable name="ab_stacked_solid_inverse_holo">@*common:color/blue</drawable>
+    <drawable name="ab_bottom_solid_inverse_holo">@*common:color/blue</drawable>
+    <drawable name="ab_transparent_dark_holo">@*common:color/blue</drawable>
+    <drawable name="ab_transparent_light_holo">@*common:color/grey_lighter</drawable>
+    <drawable name="ab_bottom_transparent_dark_holo">@*common:color/blue</drawable>
+    <drawable name="ab_bottom_transparent_light_holo">@*common:color/grey_lighter</drawable>
+    <drawable name="ab_solid_shadow_holo">@android:color/transparent</drawable>
+
+    <!-- Contextual Action Bar -->
+    <drawable name="cab_background_top_holo_dark">@*common:color/blue</drawable>
+    <drawable name="cab_background_bottom_holo_dark">@*common:color/blue</drawable>
+    <drawable name="cab_background_top_holo_light">@*common:color/blue_light</drawable>
+    <drawable name="cab_background_bottom_holo_light">@*common:color/blue_light</drawable>
+
+    <!-- Background -->
+    <drawable name="background_holo_dark">@*common:color/grey</drawable>
+
+    <!-- List -->
+    <drawable name="list_activated_holo">@*common:color/blue</drawable>
+    <drawable name="list_focused_holo">@*common:color/blue</drawable>    
+    <drawable name="list_longpressed_holo">@*common:color/blue</drawable>
+    <drawable name="list_longpressed_holo_dark">@*common:color/blue</drawable>
+    <drawable name="list_longpressed_holo_light">@*common:color/blue</drawable>
+    <drawable name="list_pressed_holo_dark">@*common:color/blue</drawable>
+    <drawable name="list_pressed_holo_light">@*common:color/blue</drawable>
+    <drawable name="list_selected_holo_dark">@*common:color/blue</drawable>
+    <drawable name="list_selected_holo_light">@*common:color/blue</drawable>
+    <drawable name="list_divider_holo_dark">@android:color/transparent</drawable>
+    <drawable name="list_divider_holo_light">@android:color/transparent</drawable>
+    <drawable name="list_selector_disabled_holo_dark">@*common:color/blue_disabled</drawable>
+    <drawable name="list_selector_pressed_holo_dark">@*common:color/blue</drawable>
+
+    <!-- Notification -->
+    <drawable name="notification_bg_normal">@*common:color/grey_disabled</drawable>
+    <drawable name="notification_bg_normal_pressed">@*common:color/blue_disabled</drawable>
+    <drawable name="notification_bg_low_normal">@drawable/notification_bg_normal</drawable>
+    <drawable name="notification_bg_low_pressed">@drawable/notification_bg_normal_pressed</drawable>
+    <drawable name="notification_item_background_color">@*common:color/grey</drawable>
     <drawable name="notification_item_background_color_pressed">@*common:color/blue</drawable>
+    <drawable name="notify_panel_notification_icon_bg">@*common:color/grey</drawable>
+    <drawable name="panel_bg_holo_dark">@*common:color/grey</drawable>
 
-	<drawable name="notification_template_icon_bg">@*android:color/transparent</drawable>
-    <drawable name="notification_template_icon_low_bg">@*android:color/transparent</drawable>
+    <!-- Menu Item -->
+    <drawable name="menuitem_background_pressed">@*common:color/blue</drawable>
+    <drawable name="menuitem_background_focus">@*common:color/blue</drawable>
+
+    <!-- Date Picker -->
+    <drawable name="selected_day_background">@*common:color/blue_disabled</drawable>
+
+    <!-- Misc -->
+    <drawable name="numberpicker_selection_divider">@*common:color/blue</drawable>
+    <drawable name="cling_bg">@*common:color/blue</drawable>
 </resources>

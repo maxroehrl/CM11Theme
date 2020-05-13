@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="SettingsTheme" parent="@*android:Theme.Holo">
-		<item name="android:actionBarStyle">@*common:style/ActionBar.Dark</item>
-		<item name="android:windowBackground">@*common:drawable/background_holo_dark</item>
-		<item name="android:windowTranslucentStatus">true</item>
-		<item name="android:windowTranslucentNavigation">false</item>
-		<item name="android:fitsSystemWindows">true</item>
-		<item name="android:actionBarWidgetTheme">@*common:style/ActionBarWidgetTheme.Dark</item>
+    <style name="SettingsTheme" parent="@android:Theme.Holo">
+        <item name="android:actionBarStyle">@*common:style/ActionBar.Dark</item>
+        <item name="android:windowBackground">@*common:drawable/background_holo_dark</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:actionBarWidgetTheme">@*common:style/ActionBarWidgetTheme.Dark</item>
     </style>
 
-	<style name="CitiesTheme" parent="@*SettingsTheme">
-	<item name="android:windowTranslucentStatus">false</item>
+    <style name="CitiesTheme" parent="@SettingsTheme">
+        <item name="android:windowTranslucentStatus">false</item>
     </style>
 </resources>

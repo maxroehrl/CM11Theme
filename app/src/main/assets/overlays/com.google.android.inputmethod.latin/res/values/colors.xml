@@ -2,7 +2,7 @@
 <resources>
     <color name="key_hint_letter_color_gb">@*common:color/grey_light</color>
     <color name="key_hint_letter_color_holo">@*common:color/grey_light</color>
-	
-	<color name="emoji_key_background_color">#007e8598</color>
-    <color name="emoji_key_pressed_background_color">#302b4995</color>
+
+    <color name="emoji_key_background_color">#007e8598</color>
+    <color name="emoji_key_pressed_background_color">@*common:color/blue_disabled</color>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<!-- Color of the background of the contact detail and editor pages -->
-	<color name="background_primary">@*common:drawable/background_holo_light_inverse</color>
+    <!-- Color of the background of the contact detail and editor pages -->
+    <color name="background_primary">@*common:drawable/background_holo_light_inverse</color>
 
     <!-- Color used for the letter in the A-Z section header -->
     <color name="section_header_text_color">@*common:color/grey_light</color>
@@ -16,4 +16,6 @@
     <color name="stream_item_stripe_color">@*common:color/blue_light</color>
 
     <color name="detail_tab_carousel_tab_label_background_color">@*common:color/blue_light</color>
+    
+    <color name="ic_overflow_menu">@*android:drawable/ic_menu_moreoverflow_normal_holo_dark</color>
 </resources>

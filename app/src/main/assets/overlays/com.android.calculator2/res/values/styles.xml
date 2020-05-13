@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<style name="Theme.Calculator" parent="@*android:Theme.Holo.NoActionBar">
-		<item name="android:windowBackground">@*drawable/background</item>
-		<item name="android:windowTranslucentStatus">true</item>
-		<item name="android:windowTranslucentNavigation">false</item>
-		<item name="android:fitsSystemWindows">true</item>
+    <style name="Theme.Calculator" parent="@android:Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">@drawable/background</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:fitsSystemWindows">true</item>
     </style>
 
-	<style name="Theme.Settings.Calculator" parent="@*android:style/Theme.Holo">
+    <style name="Theme.Settings.Calculator" parent="@android:style/Theme.Holo">
         <item name="android:actionBarStyle">@*common:style/ActionBar.Dark</item>
-		<item name="android:windowBackground">@*common:drawable/background_holo_dark</item>
-		<item name="android:windowTranslucentStatus">true</item>
-		<item name="android:windowTranslucentNavigation">true</item>
-		<item name="android:fitsSystemWindows">true</item>
+        <item name="android:windowBackground">@*common:drawable/background_holo_dark</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:fitsSystemWindows">true</item>
     </style>
 </resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="action_bar_bg_home">@*common:color/blue</drawable>
+
+    <drawable name="drawer_shadow">@android:color/transparent</drawable>
+    <drawable name="list_divider_holo_light">@android:color/transparent</drawable>
+
+    <color name="side_drawer_separator">@android:color/transparent</color>
+    <color name="translucent_separator_line">@android:color/transparent</color>
+</resources>

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="navtab_bg">#800e0f12</color>
+    <color name="navtab_bg">@*common:color/grey_dark_disabled</color>
+    <drawable name="bg_browsertabs">@*common:color/grey</drawable>
+    <drawable name="bg_urlbar">@*common:color/grey</drawable>
 </resources>

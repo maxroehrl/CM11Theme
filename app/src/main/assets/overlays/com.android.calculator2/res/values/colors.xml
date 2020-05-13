@@ -14,4 +14,13 @@
 
     <drawable name="background">@*common:color/grey</drawable>
     <drawable name="display_background">@*common:color/grey</drawable>
+
+    <drawable name="btn_keyboard_key_dark_normal_holo">#ff363d51</drawable>
+    <drawable name="btn_keyboard_key_dark_pressed_holo">@*common:color/blue</drawable>
+    <drawable name="btn_keyboard_key_del_holo">@*common:color/red</drawable>
+    <drawable name="btn_keyboard_key_equal_holo">#ff575f76</drawable>
+    <drawable name="btn_keyboard_key_light_disabled_holo">#ff7f8598</drawable>
+    <drawable name="btn_keyboard_key_light_normal_holo">#ff575f76</drawable>
+    <drawable name="btn_keyboard_key_light_pressed_holo">@*common:color/blue</drawable>
+    <drawable name="btn_slider_holo">#ff363d51</drawable>
 </resources>

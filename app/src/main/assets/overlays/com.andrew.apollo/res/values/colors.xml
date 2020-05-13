@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_blue_light">@*common:color/blue</color>
+
+    <color name="action_bar_color">@*common:color/blue</color>
+    <color name="bottom_action_bar">@*common:color/blue</color>
+
+    <drawable name="bg_stripes_dark">@*common:color/blue_dark</drawable>
+
+    <drawable name="audio_player_pager_container">@*common:color/blue</drawable>
+
+    <color name="list_item_background">@*common:color/grey</color>
+
+    <drawable name="top_shadow">@android:color/transparent</drawable>
+    <drawable name="right_shadow">@android:color/transparent</drawable>
+    <drawable name="bottom_shadow">@android:color/transparent</drawable>
+
+    <drawable name="view_pager_background_texture">@*common:color/grey</drawable>
+</resources>

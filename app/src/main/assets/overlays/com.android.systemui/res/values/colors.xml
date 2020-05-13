@@ -4,4 +4,6 @@
     <drawable name="status_bar_notification_row_background_color">@*common:color/grey</drawable>
     <drawable name="notification_item_background_legacy_color">@*common:color/grey</drawable>
     <drawable name="heads_up_notification_bg_pressed">@*common:color/blue</drawable>
+    <drawable name="notification_panel_bg">#cc232731</drawable>
+    <drawable name="notification_header_bg">@*common:color/blue</drawable>
 </resources>

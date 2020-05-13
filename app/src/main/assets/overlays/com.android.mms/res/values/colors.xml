@@ -5,9 +5,9 @@
 
     <color name="text_hairline">@*common:color/grey_dark</color>
 
-    <color name="action_bar_button_text_color">@*android:color/white</color>
+    <color name="action_bar_button_text_color">@android:color/white</color>
 
-    <color name="background">@*common:color/grey_lighter</color>	
+    <color name="background">@*common:color/grey_lighter</color>
     <color name="darkgray_backgrounds">@*common:color/grey_lighter</color>
 
     <color name="quickmessage_body_dark_bg">@*common:color/grey</color>
