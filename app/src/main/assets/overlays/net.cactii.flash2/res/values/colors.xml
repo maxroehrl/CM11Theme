@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="divider_color">#FF232731</color>
+    <color name="text_about">#FF993e1a</color>
+    <color name="text_color">#FFFFFFFF</color>
+    <color name="text_warn">#FF993e1a</color>
+    <color name="bg_color">#FF2b4995</color>
+</resources>

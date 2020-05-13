@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="background_dialpad">#232731</color>
+	<color name="background_dialpad_pressed">#0e0f12</color>
+    <color name="dialpad_primary_text_color">#ff2197f2</color>
+    <color name="dialpad_secondary_text_color">#ffb9b9b9</color>
+    <color name="actionbar_background_color">#ff2197f2</color>
+	<color name="dialpad_digits_text_color">#ffe1e1e1</color>
+	<color name="all_contacts_button_color">#ff232731</color>
+	<color name="all_contacts_button_pressed_color">#ff2b4995</color>
+</resources>

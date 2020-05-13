@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_item_activated">#677e8598</color>
+    <color name="bg_item_selected">#cc2b4995</color>
+    <color name="bg_item_pressed">#cc2b4995</color>
+</resources>

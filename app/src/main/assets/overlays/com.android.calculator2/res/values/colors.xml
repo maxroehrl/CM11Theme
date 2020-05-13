@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="magic_flame">#00FFFFFF</color>
+    <color name="button_text">#FFFFFFFF</color>
+    <color name="button_hint_text">#7e8598</color>
+    <color name="button_disabled_text_color">#232731</color>
+    <color name="pressed_color">#66ffffff</color>
+    <color name="history_input">#232731</color>
+    <color name="history_result">#232731</color>
+    <color name="graph_background">#575f76</color>
+    <color name="graph_color">#2b4995</color>
+    <color name="graph_axes_color">#000000</color>
+    <color name="graph_grid_color">#232731</color>
+    <color name="graph_labels_color">#FFFFFF</color>
+    <color name="details_color">#232731</color>
+    <color name="store_tab_text">#FFFFFF</color>
+    <color name="store_row_text">#FFFFFF</color>
+    <drawable name="background">#FF7e8598</drawable>
+    <drawable name="display_background">#575f76</drawable>
+</resources>
